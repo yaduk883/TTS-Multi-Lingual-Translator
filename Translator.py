@@ -31,8 +31,8 @@ languages = {
     'pa': 'Punjabi',
     'kn': 'Kannada',
     'te': 'Telugu',
-    'ur': 'Urdu',
-    'ks': 'Kashmiri',
+    #'ur': 'Urdu',
+    #'ks': 'Kashmiri',
     'or': 'Odia'
 }
 
